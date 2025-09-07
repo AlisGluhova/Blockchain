@@ -140,3 +140,4 @@ if __name__ == "__main__":
         print("Hash:", block.hash)
         print()
 
+    print('test')
